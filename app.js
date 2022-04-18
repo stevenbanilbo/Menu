@@ -104,7 +104,7 @@ filter.forEach(function(btn) {
             else{
 
                 displayMenu(menuCategory);
-
+                //same occurence with the filter
             }
 
         })
